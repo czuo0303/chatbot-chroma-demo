@@ -6,8 +6,6 @@
 # @Author: Cheng Zuo
 # @Time: 5月 24, 2023
 """
-#!/Users/noah/opt/anaconda3/envs/work/bin python
-# -*- coding: utf-8 -*-
 import multiprocessing
 
 # ip和端口
