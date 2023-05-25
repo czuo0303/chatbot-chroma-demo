@@ -1,4 +1,3 @@
-#!/Users/noah/opt/anaconda3/envs/work/bin python
 # -*- coding: utf-8 -*-
 
 """
