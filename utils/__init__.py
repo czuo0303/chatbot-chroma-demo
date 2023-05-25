@@ -1,8 +1,7 @@
-#!/Users/noah/opt/anaconda3/envs/work/bin python
 # -*- coding: utf-8 -*-
 
 """
-# @File: __init__.py.py
+# @File: __init__.py
 # @Project: health-bot
 # @Author: Cheng Zuo
 # @Time: 5月 23, 2023
